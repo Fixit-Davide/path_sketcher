@@ -1,5 +1,5 @@
 path_sketch:
   ros__parameters:
     topics:
-      odometry: /odometry/filtered
+      odometry: /odometry/gps
       path_publisher: /path 
